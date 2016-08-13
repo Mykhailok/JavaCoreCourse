@@ -1,6 +1,6 @@
 public class ThirdClass {
     public static void main(String[] args) {
 
-        System.out.println("Hello Mykhailok"); /*With Comment*/
+        System.out.println("Мой первый класс на Java"); /*With Comment*/
     }
 }
