@@ -1,5 +1,6 @@
+package module1.homework;
 
-public class FifthClass {
+public class ThirdClass {
     public static void main(String[] args) {
 
         System.out.println("Мой первый класс на Java"); /*With Comment*/
